@@ -45,7 +45,11 @@ npm install
 ## Start the App
 npm start
 
-###App images-
-<img width="345" height="691" alt="Screenshot 2025-07-14 231202" src="https://github.com/user-attachments/assets/9a313814-0aab-4d18-8a2c-1c36ba73c3ba" />
-<img width="340" height="693" alt="1" src="https://github.com/user-attachments/assets/7fc80650-b89c-4da8-a958-fe90a8bd7125" />
+## 🖼️ App Screenshots
 
+Here are some screenshots of the application:
+
+<img src="screenshots/dashboard.png" alt="Dashboard View" width="345" />
+<img src="screenshots/attendance_details.png" alt="Attendance Details" width="340" />
+
+---
