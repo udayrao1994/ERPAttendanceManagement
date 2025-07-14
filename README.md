@@ -43,7 +43,7 @@ cd erp-attendance-app
 npm install
 
 ## Start the App
-npx expo start
+npm start
 
 ###App images-
 <img width="345" height="691" alt="Screenshot 2025-07-14 231202" src="https://github.com/user-attachments/assets/9a313814-0aab-4d18-8a2c-1c36ba73c3ba" />
