@@ -36,7 +36,7 @@ App.js # Root entry point
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/erp-attendance-app.git
+git clone https://github.com/udayrao1994/ERPAttendanceManagement
 cd erp-attendance-app
 
 ## Install Dependencies
