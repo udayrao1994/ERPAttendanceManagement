@@ -19,3 +19,28 @@ A mobile-based Employee Attendance Portal built with **React Native** using **Ex
 ## 📂 Folder Structure
 
 # ErpAttendancePortal
+
+/assets # Images (splash, icons, dummy photos)
+/components # Reusable components (cards, buttons, etc.)
+/context # ThemeContext
+/data # Dummy initial employee data
+/navigation # AppNavigator
+/screens # Home, Punch, AttendanceDetails
+App.js # Root entry point
+
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/your-username/erp-attendance-app.git
+cd erp-attendance-app
+
+## Install Dependencies
+npm install
+
+## Start the App
+npx expo start
